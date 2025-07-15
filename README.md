@@ -83,6 +83,6 @@ After flashing the updated firmware:
 
 ## License
 
-This project builds upon Infineon’s reference software. Refer Infineon’s standard EULA for further details.
+MIT License.
 
 ---
